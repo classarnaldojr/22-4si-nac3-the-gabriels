@@ -16,10 +16,10 @@ Nas celulas **Responda** significa que é nessário uma resposta clara e objetiv
 
 Este projeto poderá ser feito `individualmente` ou por grupos de `até 2 alunos`.
 
-| Nome dos Integrantes     | RM             | Turma   |
-| :----------------------- | :------------- | :-----: |
-| Integrante 1             | RM             |         |
-| Integrante 2             | RM             |         |
+| Nome dos Integrantes      | RM             | Turma   |
+| :-----------------------  | :------------- | :-----: |
+| Gabriel Borowiec Marciano | RM 81779       | 4SIA    |
+| Gabriel Juncken Costa     | RM 82460       | 4SIA    |
 
 
 ## Data de entrega final
